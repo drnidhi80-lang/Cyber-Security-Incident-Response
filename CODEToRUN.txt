@@ -1,0 +1,2 @@
+javac main/MainApp.java model/*.java service/*.java util/*.java exception/*.java
+java main.MainApp
